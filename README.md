@@ -26,9 +26,19 @@ it will give you a shell similar to the python one.
 
 ## Spark Programming model
 
+Not planning to cover any of this the docs are below otherwise SparkContext and Spark conf are important.
+
 ## background reading
 [http://spark.apache.org/docs/latest/quick-start.html](http://spark.apache.org/docs/latest/quick-start.html)
 [http://spark.apache.org/docs/latest/programming-guide.html](http://spark.apache.org/docs/latest/programming-guide.html)
+
+## Resilient Distributed Dataset
+
+ * Collection of records (objects)
+ * distributed or partitioned across nodes.
+ * Fault tolerant
+ 
+ 
 
    
     
