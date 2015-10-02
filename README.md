@@ -38,10 +38,6 @@ Not planning to cover any of this the docs are below otherwise SparkContext and 
  * distributed or partitioned across nodes.
  * Fault tolerant
  
- 
-
-   
-    
 
 
 
